@@ -23,3 +23,9 @@ Flow Designer:
 ![Image](https://github.com/user-attachments/assets/910be11d-e5d0-47d9-9d97-1217c09aa8d4)
 
 Testing in Service Portal:
+<img width="1914" height="876" alt="Image" src="https://github.com/user-attachments/assets/9a4e0e4c-8aac-4832-9ae9-442a9d30f7ef" />
+
+<img width="1891" height="866" alt="Image" src="https://github.com/user-attachments/assets/f1460a09-8d9e-48e2-aa2d-919ace4d5f29" />
+
+Testing emails:
+<img width="1883" height="883" alt="Image" src="https://github.com/user-attachments/assets/9a06a60a-333b-46b5-aeab-32dd88943ed5" />
