@@ -1,5 +1,9 @@
 # Automated-Network-Request-Handling-in-ServiceNow
 ServiceNow Project
+
+The Automated Network Request Handling System is designed to modernize and optimize how organizations manage network-related service requests. Employees often need services such as new network installations, connection changes, access modifications, or device-specific updates. Traditional handling through emails, calls, or paper forms can create delays, errors, and limited visibility.
+This solution, built on ServiceNow, provides a centralized digital platform where employees can submit and monitor requests, while IT teams can review, approve, and fulfill tasks efficiently. By leveraging ServiceNow’s Service Catalog, Flow Designer, UI Policies, Notifications, and Custom Tables, the system reduces manual intervention, improves accuracy, speeds up service delivery, and ensures greater transparency.
+
 Sample outputs:
 
 Network Request Catalog Item:
